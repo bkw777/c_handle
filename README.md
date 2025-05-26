@@ -1,2 +1,12 @@
 # c_handle
-simple parametric printable C-handle generator
+Simple parametric printable C-handle generator
+
+Generate a simple C handle from a few key values.
+
+![](c_handle_r.png)
+
+![](c_handle_t.png)
+
+example: Carry handle for Monoprice Select Mini V2
+
+![](mpsm2_handle.jpg)
