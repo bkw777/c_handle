@@ -7,6 +7,6 @@ Generate a simple C handle from a few key values.
 
 ![](c_handle_t.png)
 
-example: Carry handle for Monoprice Select Mini V2
+Example usage: Carry handle for Monoprice Select Mini V2
 
 ![](mpsm2_handle.jpg)
